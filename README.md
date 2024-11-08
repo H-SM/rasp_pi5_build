@@ -61,3 +61,10 @@ refer to get the unbuntu source for it - [refer](https://docs.ros.org/en/jazzy/I
 You could even go for the deb version if you like. 
 
 `Thats it hf with the raspberry PI 5 :D` 
+
+### More refs - 
+
+- [Dashing install](https://docs.ros.org/en/dashing/Installation/Ubuntu-Install-Debians.html)
+- [10 things on ROS](https://www.youtube.com/watch?v=KAASuA3_4eg&list=PLunhqkrRNRhYYCaSTVP-qJnyUPkTxJnBt&index=5)
+- [Basic needs while building a robot](https://www.youtube.com/watch?v=OWeLUSzxMsw&list=PLunhqkrRNRhYAffV8JDiFOatQXuU-NnxT)
+- [setting raspi config](https://dev.to/elbruno/raspberrypi-install-raspi-config-on-ubuntu-22041-lts-195j)
